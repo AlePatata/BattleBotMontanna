@@ -1,8 +1,8 @@
 # Archivos multimedia de los battlebots
 
-Se deben subir:
-- Fotos de avance (en orden cronológico)
-- Foto del proyecto terminado
-- Vídeo de demostración/funcionamiento
+## Videos Extra del funcionamiento y proceso de creación
 
-Se sugiere subir todas las imágenes y vídeos a esta carpeta y linkearlos desde acá para otros archivos. 
+![Robot Ejemplo](/multimedia/plataformaresortes.mp4)
+![Robot Ejemplo](/multimedia/disenoinicial.mp4)
+![Robot Ejemplo](/multimedia/carcasa.mp4)
+![Robot Ejemplo](/multimedia/carcasaa.mp4)

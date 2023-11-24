@@ -1,6 +1,14 @@
 # Archivos de planos incluidos
+##Modelo 3D
+![Robot Ejemplo](/multimedia/r1.jpeg)
+![Robot Ejemplo](/multimedia/r2.jpeg)
 
-Subir al repositorio todos los modelos y planos utilizados para construir el battlebot:
-
-- Modelo 3D
-- **Todos** los planos utilizados para la construcción del robot.
+## Primeros avances
+![Robot Ejemplo](/multimedia/1.jpeg)
+![Robot Ejemplo](/multimedia/2.jpeg)
+## Diseño componentes y carcasa
+![Robot Ejemplo](/multimedia/3.jpeg)
+![Robot Ejemplo](/multimedia/4.jpeg)
+## Diseño Final
+![Robot Ejemplo](/multimedia/5.jpeg)
+![Robot Ejemplo](/multimedia/6.jpeg)

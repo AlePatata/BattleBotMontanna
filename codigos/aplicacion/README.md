@@ -1,6 +1,6 @@
 # Código de la Aplicación
 
-< Subir imagen y descripción de _layout_ de la aplicación.>
+
 A partir de un layout preliminar puesto a disposición por el equipo docente, se hizo un estudio completo del diseño y su respectiva ergonomía, considerando el dispositivo en el que se iba a utilizar la aplicación y su correspondiente funcionalidad. Nos referimos y calificamos esta funcionalidad por su simplesa y fácil utilidad para con el usuario, es decir, que brinde las herramientas necesarias para el buen control de moviento del robot, de su arma y su disposicion simple y cómoda.
 
 Para lograr esto se tomaron en cuenta los siguientes puntos:
