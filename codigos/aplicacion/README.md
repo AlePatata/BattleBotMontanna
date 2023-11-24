@@ -11,6 +11,6 @@ Para lograr esto se tomaron en cuenta los siguientes puntos:
 - Separación entre botones de movimiento y botones de ataque
 ![Robot Ejemplo](/multimedia/de.png)
 
-![Robot Ejemplo](/multimedia/bloques.png)
+![Robot Ejemplo](/multimedia/bloques.jpeg)
 
 

@@ -10,7 +10,7 @@ En rituales nocturnos, renuevan su compromiso de preservar la armonía entre la 
 convirtiéndose en guardianes de la paz en las alturas. La historia de los Battlebots es una sinfonía de magia y 
 maquinaria que resuena a través de los siglos
   
-![Robot Ejemplo](/multimedia/bot.png)
+![Robot Ejemplo](/multimedia/bot.jpeg)
 
 ## Integrantes
 - Magdalena Borcoski L. - FAU
@@ -34,7 +34,7 @@ de la fortaleza y estabilidad de la montaña.
 En caso de ser derribado su hábil piloto aprovechará al máximo sus características y adaptará la estrategía de ser necesario.
 
 ### Diagrama funcional
-![Robot Ejemplo](/multimedia/bloques.png)
+![Robot Ejemplo](/multimedia/bloques.jpeg)
 
 ## Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
